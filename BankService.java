@@ -2,7 +2,7 @@ public class BankService{
 public static void main(String[] args){
     int balance = 1000;
     int deposit = 500;
-    int withdraw = 200;
+    int withdraw = 2000;
 
     balance = balance + deposit;
     balance = balance - withdraw;
